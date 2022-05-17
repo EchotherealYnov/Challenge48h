@@ -11,8 +11,8 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 # Pour se connecter
 -Rentrer son email ( peut importe l'email rentré )
 -Ensuite utiliser les identifiants ci-dessous : 
-username = test
-password = test
+username = admin
+password = admin
 
 
 ## Deploy your own
