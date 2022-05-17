@@ -1,5 +1,9 @@
 # Léo MAGNANT | B3 INFO IngLog
-# Clone de Netflix by Echothereal
+# Brian Peyre | B2 INFO
+# Gregoire Acquadro | B2 INFO
+# Elodie Turam-Ullien | B3 Infra 
+# Nicolas Chow Shi Yee | B1 INFO
+# CHallenge 48H
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
@@ -7,8 +11,8 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 # Pour se connecter
 -Rentrer son email ( peut importe l'email rentré )
 -Ensuite utiliser les identifiants ci-dessous : 
-username = echothereal
-password = netflixclone
+username = admin
+password = admin
 
 
 ## Deploy your own
