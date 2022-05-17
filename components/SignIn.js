@@ -29,7 +29,7 @@ class SignIn extends Component {
   SubmitForm(e){
     e.preventDefault()
     const {username,password} = this.state
-    if (username =="test" && password =="test"){
+    if (username =="admin" && password =="admin"){
       localStorage.setItem("token", "login")
       this.setState( {
         loggedIn: true

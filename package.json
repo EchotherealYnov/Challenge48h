@@ -26,6 +26,7 @@
     "tailwind-scrollbar-hide": "^1.1.6"
   },
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.0",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
     "tailwindcss": "^3.0.0"

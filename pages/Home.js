@@ -23,7 +23,15 @@ const Home = () => {
         isLargeRow
       />
 
-     
+<Row title="Basket" fetchUrl={requests.fetchTrending} />
+
+<Row title="Foot" fetchUrl={requests.fetchTopRated} />
+
+<Row title="Tennis" fetchUrl={requests.fetchActionMovies} />
+
+<Row title="Boxe" fetchUrl={requests.fetchComedyMovies} />
+
+<Row title="Athlétisme  " fetchUrl={requests.fetchHorrorMovies} />
     </div>
   );
 };
